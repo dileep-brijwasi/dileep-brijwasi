@@ -1,40 +1,27 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Dileep Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+## .preview
+![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
 
+## .features
+- [x] Show tasks list
+- [x] Add new task
+- [ ] Complete task
+- [x] Delete task
+- [x] Edit task
+- [x] Clear all tasks
+- [ ] Clear complete tasks
+- [x] Save on local storage
+- [x] Reverse sort by id
+- [x] Show message if not task
+- [x] Show toast when add, delete task
+- [x] Change alert box to modal
+- [x] Custom scrollbar
+- [x] Responsivity
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dileep-brijwasi&label=Profile%20views&color=0e75b6&style=flat" alt="dileep-brijwasi" /> </p>
+## .tools
+- Css Framework: [Semantic UI](https://semantic-ui.com)
+- Toast or Notification: [Noty](https://ned.im/noty)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dileep-brijwasi" alt="dileep-brijwasi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dileep_brijwasi" target="blank"><img src="https://img.shields.io/twitter/follow/dileep_brijwasi?logo=twitter&style=for-the-badge" alt="dileep_brijwasi" /></a> </p>
-
-- 🌱 I’m currently learning **Android Development**
-
-- 💬 Ask me about **JAVASCRIPT, JAVA , PYTHON**
-
-- 📫 How to reach me **dileep.brijwasi@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://fb.com/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://instagram.com/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dileep_brijwasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-<a href="https://discord.gg/dileep_brijwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dileep_brijwasi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileep-brijwasi&show_icons=true&locale=en&layout=compact" alt="dileep-brijwasi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dileep-brijwasi&show_icons=true&locale=en" alt="dileep-brijwasi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dileep-brijwasi&" alt="dileep-brijwasi" /></p>
+## .contact
+- Email: [dev.mehdineysi@gmail.com](mailto:dev.mehdineysi@gmail.com)
+- Instagram: [@neysidev](https://instagram.com/neysidev)
+- Twitter: [@neysidev](https://twitter.com/neysidev)
